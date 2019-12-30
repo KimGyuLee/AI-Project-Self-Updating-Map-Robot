@@ -3,9 +3,9 @@
 Overview
 -------------------------------
 * **Organization** : POSCO AI BIG DATA ACADEMY
-* **Industry** : dddd
+* **Industry** :
 * **Project Title** : 실내 정보를 자동으로 인식하고 바뀐 정보를 스스로 업데이트하는 인공지능 로봇 'P1'
-* **Project Description** : dddd
+* **Project Description** : 
 * **Author(s)** : [박규동](https://github.com/bgd0706), [공은비](https://github.com/barha-star), [김규리](https://github.com/KimGyuLee), [김송일](https://github.com/camelia13), [박병수](https://github.com/Hinterhalter), [이수진](https://github.com/sooooojinlee)
 * **Date** : 19/11/18 ~ 19/12/20  
 
