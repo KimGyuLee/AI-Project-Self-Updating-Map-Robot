@@ -82,7 +82,7 @@ The following technologies were used for this part of the project:
 
 References
 ----------------------------------------------
-[1] [Siamese and triplet learning with online pair/triplet mining](https://github.com/adambielski/siamese-triplet)
-[2] [Deep face recognition with Keras, Dlib and OpenCV](https://github.com/krasserm/face-recognition/blob/master/face-recognition.ipynb)
+[1] [Siamese and triplet learning with online pair/triplet mining](https://github.com/adambielski/siamese-triplet)  
+[2] [Deep face recognition with Keras, Dlib and OpenCV](https://github.com/krasserm/face-recognition/blob/master/face-recognition.ipynb)  
 
 
