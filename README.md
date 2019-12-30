@@ -45,22 +45,8 @@ Timeline
 
  * 2st Week
 
- * 3rd Week
+ * 3rd Week  
 
-
-Notebooks and Analysis
--------------------------------
-The project includes the following notebooks (data manipulation and analysis):  
-
-* #### [Data Preprocessing](https://nbviewer.jupyter.org/gist/KimGyuLee/30aca84f405bb5ddc81a522b6fda84df)
-* #### [Data Exploration](https://nbviewer.jupyter.org/gist/KimGyuLee/c370b6d1c85167bcd1cda85789603f05)
-* #### [Modeling & Evaluating model performance (1)-대사증후군](https://nbviewer.jupyter.org/gist/KimGyuLee/6f8dbdd37f4b845f22272a6732236644)
-* #### [Modeling & Evaluating model performance (2)-심혈관질환](https://nbviewer.jupyter.org/gist/KimGyuLee/325028ce0612728111bdb7641596e04b)
-* #### [Modeling & Evaluating model performance (3)-암](https://nbviewer.jupyter.org/gist/KimGyuLee/c4b3a29ff479431cf69f809db372046e)
-* #### [Web]()
-* #### [Project Portfolio](https://nbviewer.jupyter.org/github/KimGyuLee/Health-Care-Big-Data-Project/blob/master/healthcare_project.pdf)
-
-It is recommended to view the notebooks in the above order to avoid missing out on code explainations.
 
 Tech
 -------------------------------
