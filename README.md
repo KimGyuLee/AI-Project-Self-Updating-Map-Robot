@@ -74,7 +74,8 @@ Reference
 Appendix
 ----------------------------------------------
 #### 참고한 코드 출처
-**adambielski** (https://github.com/adambielski/siamese-triplet)
+**adambielski** Triplet loss (https://github.com/adambielski/siamese-triplet)
+
 **krasserm** (https://github.com/krasserm/face-recognition)
 **p.100** 생활습관 요인 정의  
 **p.109** 수검여부에 따른 건강위험요인 변화여부 비교    
