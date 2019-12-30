@@ -73,9 +73,9 @@ Reference
 
 Appendix
 ----------------------------------------------
-#### 국가건강검진 건강위험평가 개선 참고 페이지  
-**p.37~64** 예측 모형에 대한 설명  
-**p.82** 기존 예측 모형  
+#### 참고한 코드 출처
+**adambielski** https://github.com/adambielski/siamese-triplet 
+**krasserm** https://github.com/krasserm/face-recognition 
 **p.100** 생활습관 요인 정의  
 **p.109** 수검여부에 따른 건강위험요인 변화여부 비교    
 **p.127** (p.144, p.221) HRA 로직 수정 및 시범 적용  
