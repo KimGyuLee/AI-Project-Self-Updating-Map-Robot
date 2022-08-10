@@ -12,12 +12,8 @@ Overview
 
 Related works
 -------------------------------
- * **Logo and franchise detection (?)** : ???  
- * **Deep metric learning (?)** : ?? 
-
-
-Hardware
--------------------------------
+ * **Logo and franchise detection**  
+ * **Deep metric learning**
 
 
 Dataset
@@ -25,27 +21,6 @@ Dataset
  * **Mall_space_image_data** : 제작한 세트에서 매장 사진을 수집한 데이터
  * **train_data** : 세트를 1회 주행하면서 수집한 데이터
  * **test_data** : 세트에서 매장 사진을 2개 변경하고 수집한 데이터
-
-
-POI Change Detection
--------------------------------
- 
-
-Mapping
--------------------------------
-
-
-Experimental Results
--------------------------------
-
-
-Timeline
--------------------------------
- * 1st Week
-
- * 2st Week
-
- * 3rd Week  
 
 
 Tech
